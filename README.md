@@ -1,6 +1,6 @@
 <div align="center">
 <h2>    
-LLM Inference via Search (LIS) (Last Major Updated: 14 Mar 2025)
+LLM Inference via Search (LIS) (Last Updated: 17 Apri 2025)
 </div>
 <!-- About: Surveys on LLM Agents (Published on CoLing 2025) and Test-Time Compute via Search (Preprint) -->
 
@@ -22,7 +22,11 @@ Papers are generally introduced in the following perspectives:
 3. **LLM-Profiled Roles**, including policy, evaluator, and transition.
 4. **Search Algorithms**, including BFS, DFS, MCTS, Beam Search, and others.
 
-For an **intergral** framework of LLM Inference via Search and their **detailed implementations**, please refer to [my TMLR2025 paper](https://openreview.net/forum?id=x9VQFjtOPS).
+For an **intergral** framework of LLM Inference via Search and their **detailed implementations**, please refer to [my TMLR2025 survey](https://openreview.net/forum?id=x9VQFjtOPS). Below is the survey structure.
+
+<div align="center">
+<img src="tmlr-paper-figure1.png">
+</div>
 
 ## Table of Contents
 - [ICLR 2025](#iclr-2025)
