@@ -125,3 +125,13 @@ For most of the papers, please refer to the Section 5 in our surveys for details
     + Search Algorithm: MCTS
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, AAAI 2024 [[paper](https://doi.org/10.48550/arXiv.2308.09687)]
     + See Section 7: Related Work
+
+# Reference
+```bibtex
+@article{li2025survey,
+  title={A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks},
+  author={Li, Xinzhe},
+  journal={arXiv preprint arXiv:2501.10069},
+  year={2025}
+}
+```
