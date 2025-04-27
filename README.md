@@ -14,7 +14,6 @@ LLM Inference via Search (LIS) (Last Major Updated: 14 Mar 2025)
     <a href="https://github.com/xinzhel/LLM-Search"><img src="https://img.shields.io/github/last-commit/xinzhel/LLM-Search?color=blue" alt="Github"></a>
     <a href="hhttps://github.com/xinzhel/LLM-Search/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/xinzhel/LLM-Search?color=green"> </a>
 </div>
-> A corresponding survey published on TMLR 2025: [A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks](https://openreview.net/forum?id=x9VQFjtOPS) 
 
 Papers are generally introduced in the following perspectives:
 1. **Year of Publication and Publication Venue**: We choose to organize the paper based on the publication information, as shown in the Table of Contents below. 
@@ -23,7 +22,7 @@ Papers are generally introduced in the following perspectives:
 3. **LLM-Profiled Roles**, including policy, evaluator, and transition.
 4. **Search Algorithms**, including BFS, DFS, MCTS, Beam Search, and others.
 
-For most of the papers, please refer to the Section 5 in our surveys for details, unless otherwise specified.
+For an **intergral** framework of LLM Inference via Search and their **detailed implementations**, please refer to [my TMLR2025 paper](https://openreview.net/forum?id=x9VQFjtOPS).
 
 ## Table of Contents
 - [ICLR 2025](#iclr-2025)
