@@ -1,4 +1,19 @@
-LLM Inference via Search (LIS)
+<div align="center">
+<h2>    
+LLM Inference via Search (LIS) (Last Major Updated: 14 Mar 2025)
+</div>
+<!-- About: Surveys on LLM Agents (Published on CoLing 2025) and Test-Time Compute via Search (Preprint) -->
+
+<div align="center">
+<b>Xinzhe Li</b>
+</div>
+<br />
+
+<div align="center">
+    <a href="https://openreview.net/forum?id=x9VQFjtOPS"><img src="https://img.shields.io/badge/TMLR-2025-b31b1b" alt="Paper"></a>
+    <a href="https://github.com/xinzhel/LLM-Search"><img src="https://img.shields.io/github/last-commit/xinzhel/LLM-Search?color=blue" alt="Github"></a>
+    <a href="hhttps://github.com/xinzhel/LLM-Search/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/xinzhel/LLM-Search?color=green"> </a>
+</div>
 > A corresponding survey published on TMLR 2025: [A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks](https://openreview.net/forum?id=x9VQFjtOPS) 
 
 Papers are generally introduced in the following perspectives:
